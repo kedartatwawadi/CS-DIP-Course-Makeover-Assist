@@ -1,0 +1,66 @@
+
+*************************************************************************
+We are using 1 Late Day for our Project.
+*************************************************************************
+
+Documentation Link:
+http://homepages.iitb.ac.in/~kedar.tatwawadi/makeover-assist
+
+Please refer to the html documentation for all the details.
+
+--------------------------------------------------------------------------
+
+The files included are:
+data/
+docs/
+src/
+README
+sample_run.sh
+
+
+data/:
+Contains the data files:
+glass.jpg : the glass image used to put glasses
+working : the image dataset which are working fine with the code
+sample : the image dataset used by sample_run script.
+not_working
+
+
+docs/:
+Contains the documentation files of the project.
+
+src/:
+Source code of the project
+
+README: 
+This file
+
+sample_run.sh:
+script used for sample execution.
+
+-------------------------------------------------------------------------------------------
+
+Execution:
+
+The program needs 2 inputs:
+
+cd src
+./makeover <image_path_name> <glass_path_name> 
+
+where,
+<image_path_name> : the path of the image to be operated upon
+<glass_path_name> : the path of the glasses image to be placed upon the face
+
+Example Execution:
+./sample_run.sh
+The sample_run.sh script is a simple script which does the following.
+    --- [Cleans the project]
+    --- [ compiles the program using the Makefile]
+    --- [ Executes the executable on the images in the Data/sample directory]
+    
+--------------------------------------------------------------------------------------------------
+
+
+*****************************************************************************************************
+Our group members did work equally and we think equal marks are reasonable
+******************************************************************************************************

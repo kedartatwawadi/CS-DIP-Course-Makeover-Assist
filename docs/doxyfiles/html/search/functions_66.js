@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['facefeature',['FaceFeature',['../classFaceFeature.html#ae4501d813c737b1794e98590b7680472',1,'FaceFeature']]],
+  ['faceregion',['FaceRegion',['../classFaceRegion.html#a8c24206fa124604e057af83af9fe1d41',1,'FaceRegion']]],
+  ['findallfacefeatures',['findAllFaceFeatures',['../classFaceRegion.html#aa0c2dd50672196e09805dac90f4e6462',1,'FaceRegion']]],
+  ['findavghaircolor',['findAvgHairColor',['../classFaceRegion.html#af4ab33f1e224f1681519f07605019119',1,'FaceRegion']]],
+  ['findavgskincolors',['findAvgSkinColors',['../classFaceRegion.html#aa00227dfef6298e0b4a84298bce63ff6',1,'FaceRegion']]],
+  ['findface',['findFace',['../classFaceRegion.html#a8344ee760c408c8c663735e2ee7a8e6d',1,'FaceRegion']]],
+  ['findforehead',['findForehead',['../classFaceRegion.html#a25163781901039ed9f6ce7e40f77237d',1,'FaceRegion']]],
+  ['findgrabcutboundingrect',['findGrabcutBoundingRect',['../classFaceRegion.html#ae05acf37e053289ce00c5604f196ff57',1,'FaceRegion']]],
+  ['findleftbackgroundbox',['findLeftBackgroundBox',['../classFaceRegion.html#ad1d3b5cab7709f79ffeca7f2a56cc185',1,'FaceRegion']]],
+  ['findleftcheek',['findLeftCheek',['../classFaceRegion.html#a90015b475b18068a9c88531618d153fc',1,'FaceRegion']]],
+  ['findlefteye',['findLeftEye',['../classFaceRegion.html#af658eb4f03f29b9484b6fd52d50b3b31',1,'FaceRegion']]],
+  ['findmouth',['findMouth',['../classFaceRegion.html#ae185dec3f6971f121fd3c896a406bc27',1,'FaceRegion']]],
+  ['findnose',['findNose',['../classFaceRegion.html#a76ca46465472fc571f3cdc70af33de4e',1,'FaceRegion']]],
+  ['findrightbackgroundbox',['findRightBackgroundBox',['../classFaceRegion.html#aaea83e2b8763f31cbe8dcfe65146d049',1,'FaceRegion']]],
+  ['findrightcheek',['findRightCheek',['../classFaceRegion.html#af42844c9ec506ba4770dc1c690ada67c',1,'FaceRegion']]],
+  ['findrighteye',['findRightEye',['../classFaceRegion.html#ae2f786198c34f9314e0c523004ae634c',1,'FaceRegion']]],
+  ['floodfill',['floodfill',['../classFaceRegion.html#ade7aa3fcd916639552c39f620a8a1e62',1,'FaceRegion']]]
+];

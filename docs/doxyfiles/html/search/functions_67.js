@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['getbinmask',['getBinMask',['../GrabCut_8cpp.html#a64b4ede58895e0bbfe100fdb26fbefb9',1,'getBinMask(const Mat &amp;comMask, Mat &amp;binMask):&#160;GrabCut.cpp'],['../GrabCut_8h.html#a64b4ede58895e0bbfe100fdb26fbefb9',1,'getBinMask(const Mat &amp;comMask, Mat &amp;binMask):&#160;GrabCut.cpp']]],
+  ['getimageid',['getImageID',['../utility__functions_8cpp.html#a91289a3d38342b9936df6a1fceadd447',1,'getImageID(string filename):&#160;utility_functions.cpp'],['../utility__functions_8h.html#a91289a3d38342b9936df6a1fceadd447',1,'getImageID(string filename):&#160;utility_functions.cpp']]],
+  ['getmean',['getMean',['../utility__functions_8cpp.html#a46f15d85fbc2f4744a7c49bcb9615cae',1,'getMean(double *array, int numberOfElements):&#160;utility_functions.cpp'],['../utility__functions_8h.html#a46f15d85fbc2f4744a7c49bcb9615cae',1,'getMean(double *array, int numberOfElements):&#160;utility_functions.cpp']]],
+  ['getroiaverage',['getROIAverage',['../utility__functions_8cpp.html#a80a4d0088fde0976efe88395c683cf5c',1,'getROIAverage(IplImage *img, int pivot_x, int pivot_y, int width, int height):&#160;utility_functions.cpp'],['../utility__functions_8h.html#a80a4d0088fde0976efe88395c683cf5c',1,'getROIAverage(IplImage *img, int pivot_x, int pivot_y, int width, int height):&#160;utility_functions.cpp']]],
+  ['getstd',['getSTD',['../utility__functions_8cpp.html#a0be73b72096eaa06d05795cca1cc399d',1,'getSTD(double *array, int numberOfElements, double mean):&#160;utility_functions.cpp'],['../utility__functions_8h.html#a0be73b72096eaa06d05795cca1cc399d',1,'getSTD(double *array, int numberOfElements, double mean):&#160;utility_functions.cpp']]]
+];
