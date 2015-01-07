@@ -1,3 +1,12 @@
+The next task is as follows:
+1) Understand grabcut
+2) understand graph cut, and implement the same in python
+We are trying to achieve a dual aim here of learning python as well as gettin in touch with open cv.
+3) Learn how to close the windows, they seem to be always on!
+
+The first three things are complpete now, updating the README.md appropriately.
+always good to have a single readme file!
+
 1) Check if OpenCv is correctly installed on the machine
 2) If not install the same
 3) Get the MAkeover Assist Project up and working
